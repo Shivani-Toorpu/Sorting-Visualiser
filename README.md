@@ -27,7 +27,7 @@ A dynamic web application that visualizes various sorting algorithms in real-tim
 ## 🛠️ Built With
 
 - React.js
-- JavaScript
+- C++
 - CSS
 - HTML
 
